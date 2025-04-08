@@ -8,7 +8,7 @@ function App() {
       <section className="min-h-screen flex flex-col justify-center relative px-4 sm:px-6 lg:px-8">
         <div className="max-w-5xl mx-auto">
           <h1 className="text-4xl sm:text-6xl font-bold text-gray-900 mb-4">
-            Hi, I'm <span className="text-blue-600">John Doe</span>
+            Hi, I'm <span className="text-blue-600">Sudeep</span>
           </h1>
           <p className="text-xl sm:text-2xl text-gray-600 mb-8">
             Full Stack Developer crafting exceptional digital experiences
